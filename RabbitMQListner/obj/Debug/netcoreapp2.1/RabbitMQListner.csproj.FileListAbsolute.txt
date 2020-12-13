@@ -1,0 +1,11 @@
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\bin\Debug\netcoreapp2.1\RabbitMQListner.deps.json
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\bin\Debug\netcoreapp2.1\RabbitMQListner.runtimeconfig.json
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\bin\Debug\netcoreapp2.1\RabbitMQListner.runtimeconfig.dev.json
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\bin\Debug\netcoreapp2.1\RabbitMQListner.dll
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.csprojAssemblyReference.cache
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.csproj.CoreCompileInputs.cache
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.AssemblyInfoInputs.cache
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.AssemblyInfo.cs
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\bin\Debug\netcoreapp2.1\RabbitMQListner.pdb
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.dll
+C:\Users\vijay.kumar1\source\repos\RabbitMQListner\RabbitMQListner\obj\Debug\netcoreapp2.1\RabbitMQListner.pdb
